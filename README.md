@@ -3,7 +3,7 @@ Install Ansible on build agent
 Install Ansible rm module on build agent
 Execute Ansible playbook for creating resource group in Azure cloud.
 
-
+## use this https://www.coachdevops.com/2024/04/automate-azure-app-service-setup-using.html
 trigger:
 - main
 pr: none  # Disable PR triggers, can be adjusted as needed
